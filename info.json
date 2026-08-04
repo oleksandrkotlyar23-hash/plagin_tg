@@ -1,0 +1,9 @@
+{
+    "id": "alex_fasttranslator",
+    "name": "Fast Translator",
+    "description": "Translates messages starting with .tr <lang> <text> before sending",
+    "author": "@flyffyx",
+    "version": "1.0.0",
+    "min_version": "12.4.1",
+    "main": "FastTranslatorPlugin"
+}
